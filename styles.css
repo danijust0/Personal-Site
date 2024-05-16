@@ -1,0 +1,51 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+body {
+    background-color: white;
+  }
+  
+  h1 {
+    color:black;
+    font-family: sans-serif; 
+  }
+
+  h2 {
+    color:black;
+    font-family: sans-serif; 
+  }
+
+  h3 {
+    color:black;
+    font-family: sans-serif; 
+  }
+  
+  p {
+    font-family:  sans-serif;
+    font-size: 20px;
+  }
+
+
+  .container {
+    background-color: lightgray;
+    padding: 20px;
+    margin: None;
+  }
+  
+  #Body {
+    margin: 20px;
+    padding: 20px;
+  }
+  
+  #Header {
+    background-color: whitesmoke;
+    object-fit: fill;
+    height: 150px;
+  }
+
+  #Footer{
+    background-color: whitesmoke;
+    object-fit: fill;
+    height: 150px;
+  }
+
